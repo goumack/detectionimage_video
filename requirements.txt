@@ -1,4 +1,4 @@
-transformers 
+transformers-4.48.0 
 streamlit
 cv2
 torch
