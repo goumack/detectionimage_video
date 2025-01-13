@@ -6,3 +6,4 @@ matplotlib
 timm
 streamlit==1.37.0
 pip
+cv2
