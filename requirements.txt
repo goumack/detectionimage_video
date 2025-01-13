@@ -6,4 +6,4 @@ torch
 matplotlib
 timm
 streamlit==1.37.0
---upgrade pip
+pip
