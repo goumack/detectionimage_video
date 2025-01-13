@@ -1,5 +1,8 @@
-transformers-4.48.0 
-streamlit
 cv2
 torch
 numpy
+transformers 
+torch
+matplotlib
+timm
+streamlit==1.37.0
