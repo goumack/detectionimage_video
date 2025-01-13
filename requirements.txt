@@ -1,4 +1,3 @@
-cv2
 torch
 numpy
 transformers 
