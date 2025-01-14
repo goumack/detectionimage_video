@@ -1,7 +1,7 @@
 torch
 numpy
 transformers 
-torch
+torch-2.5.1
 matplotlib
 timm
 streamlit==1.37.0
