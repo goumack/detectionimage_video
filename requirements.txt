@@ -1,8 +1,9 @@
 torch==2.5.1
-numpy==1.23.5
 transformers==4.48.0
 matplotlib==3.10.0
 timm==1.0.13
 streamlit==1.37.0
 opencv-python==4.8.0.76
+numpy>=1.25.0
+
 
